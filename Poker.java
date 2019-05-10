@@ -318,7 +318,7 @@ public class Poker{
 
     }
 	//
-	
+	//change
 	
 	
 	private static ArrayList<Integer> splitNum(String cards) {
